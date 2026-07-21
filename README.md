@@ -51,3 +51,13 @@ AI-assisted Android application that recommends suitable government health schem
 
 ### 🔐 Blockchain-Based Medical Record Storage System
 Blockchain-based healthcare application using Solidity, Remix IDE, Ganache, and MetaMask for secure medical record management.
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathvikks&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathvikks&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
