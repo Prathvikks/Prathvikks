@@ -10,3 +10,30 @@ Currently, I'm focused on:
 - 💡 AI-powered Applications
 
 Welcome to my GitHub! Here you'll find my projects, learning journey, and practical work in Data Analytics, Automation Testing, Artificial Intelligence, and Web Development.
+
+## 🛠️ Tech Stack
+
+### 📊 Data Analytics
+- SQL
+- Microsoft Excel
+- Power BI
+- Tableau
+- Power Query
+- DAX
+
+### 🧪 QA Automation
+- Playwright
+- Postman
+- REST API Testing
+- TypeScript
+
+### 🗄️ Databases
+- MySQL
+- SQL Server
+- MongoDB
+
+### 🤖 AI & Machine Learning
+- Python
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
