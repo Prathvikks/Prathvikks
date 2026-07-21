@@ -37,3 +37,13 @@ Welcome to my GitHub! Here you'll find my projects, learning journey, and practi
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
+
+## 🚀 Featured Projects
+
+### 📊 Decathlon Sales & Customer Analytics Dashboard
+
+### 🎨 ChromaTone – AI-Based Skin Tone Classification & Outfit Recommendation
+
+### 🏥 Arogya Nidhi – AI-Based Government Health Scheme Recommendation App
+
+### 🔐 Blockchain-Based Medical Record Storage System
